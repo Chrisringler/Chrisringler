@@ -1,14 +1,11 @@
-
 <h1 align="center">Hola 👋,soy Chris Ringler</h1>
 <h3 align="center">Soy un programador full stack orientado al back-end</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chrisringler&label=Profile%20views&color=0e75b6&style=flat" alt="chrisringler" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chrisringler" alt="chrisringler" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **MongoDB**
+- 🌱 actualmente estoy aprendiendo **MongoDB**
 
 - 💬 Preguntame sobre **javascript, node.js,express.js**
 
@@ -28,3 +25,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chrisringler&show_icons=true&locale=en" alt="chrisringler" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chrisringler&" alt="chrisringler" /></p>
+
