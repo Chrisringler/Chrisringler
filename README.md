@@ -1,11 +1,48 @@
 <h1 align="center">Hola 👋,soy Chris Ringler</h1>
 <h3 align="center">Soy un programador full stack orientado al back-end</h3>
 
-- 🌱 actualmente estoy aprendiendo **MongoDB**
+# ¡Hola! 👋 Soy Chris Ringler
 
-- 💬 Preguntame sobre **javascript, node.js,express.js**
+Soy un programador full stack orientado al back-end con experiencia en JavaScript, Node.js y Express.js.
 
-- 📫 Contactame **chrisringler@outlook.com.ar**
+- 🌱 Actualmente estoy aprendiendo **MongoDB**.
+- 💬 Pregúntame sobre **JavaScript, Node.js y Express.js**.
+- 📫 Puedes contactarme en **chrisringler@outlook.com.ar**.
+
+## Sobre mí
+
+Soy un apasionado del desarrollo de software y estoy comprometido con el aprendizaje constante. Estudié en Henry, una reconocida academia de programación, donde adquirí conocimientos en diversas tecnologías y metodologías utilizadas en la industria.
+
+Anteriormente, me desempeñaba como músico, pero en 2022 decidí dar un giro en mi vida y embarcarme en el mundo de la tecnología de la información para buscar nuevas oportunidades de crecimiento personal y profesional.
+
+## Conéctate conmigo
+
+- LinkedIn: [linkedin.com/in/christianringler](https://linkedin.com/in/chrisringler)
+- Instagram: [instagram.com/chris_ringler](https://instagram.com/chris_ringler)
+
+## Tecnologías y herramientas
+
+Aquí tienes algunas de las tecnologías y herramientas con las que estoy familiarizado:
+
+- JavaScript
+- Node.js
+- Express.js
+- MongoDB
+- React.js
+- Redux
+- HTML5
+- CSS3
+- Bootstrap
+- SQL
+- Git
+- Firebase
+- Postman
+- Figma
+- Sass
+- Webpack
+
+Si tienes alguna otra pregunta o necesitas más información, ¡no dudes en preguntar!
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
