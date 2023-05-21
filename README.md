@@ -11,31 +11,6 @@ Soy un apasionado del desarrollo de software y estoy comprometido con el aprendi
 
 Anteriormente, me desempeñaba como músico, pero en 2022 decidí dar un giro en mi vida y embarcarme en el mundo de la tecnología de la información para buscar nuevas oportunidades de crecimiento personal y profesional.
 
-## Conéctate conmigo
-
-- LinkedIn: [linkedin.com/in/christianringler](https://linkedin.com/in/chrisringler)
-- Instagram: [instagram.com/chris_ringler](https://instagram.com/chris_ringler)
-
-## Tecnologías y herramientas
-
-Aquí tienes algunas de las tecnologías y herramientas con las que estoy familiarizado:
-
-- JavaScript
-- Node.js
-- Express.js
-- MongoDB
-- React.js
-- Redux
-- HTML5
-- CSS3
-- Bootstrap
-- SQL
-- Git
-- Firebase
-- Postman
-- Figma
-- Sass
-- Webpack
 
 Si tienes alguna otra pregunta o necesitas más información, ¡no dudes en preguntar!
 
