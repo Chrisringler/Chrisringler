@@ -1,10 +1,6 @@
 <h1 align="center">Hola 👋,soy Chris Ringler</h1>
 <h3 align="center">Soy un programador full stack orientado al back-end</h3>
 
-# ¡Hola! 👋 Soy Chris Ringler
-
-Soy un programador full stack orientado al back-end con experiencia en JavaScript, Node.js y Express.js.
-
 - 🌱 Actualmente estoy aprendiendo **MongoDB**.
 - 💬 Pregúntame sobre **JavaScript, Node.js y Express.js**.
 - 📫 Puedes contactarme en **chrisringler@outlook.com.ar**.
